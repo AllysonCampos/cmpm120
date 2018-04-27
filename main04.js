@@ -1,5 +1,9 @@
 
 // define game
+//hopefully this new change works!!!!
+
+
+
 //works best in Safari
 //Game states, Animation, and Texture Atlas code from Nathan Atlice CMPM120 Slides
 //player sprite art asset provided by Kenny
